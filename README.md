@@ -26,7 +26,9 @@ Xperia is an autonomous AI-powered travel companion matching app for solo travel
 - **Real-time Updates**: Live notifications and match updates
 - **Privacy-First**: Location data used only for matching, never shared publicly
 <img width="2909" height="1678" alt="dashboard" src="https://github.com/user-attachments/assets/7da49369-d690-47a9-8cef-e67239844a36" />
+
 <img width="2909" height="1674" alt="matches" src="https://github.com/user-attachments/assets/9f813826-9669-42b8-9c11-fe6a149c7e03" />
+
 <img width="2910" height="1540" alt="chat" src="https://github.com/user-attachments/assets/67cd5c5f-ae7a-4bd6-be1d-3877e550a1ae" />
 
 
