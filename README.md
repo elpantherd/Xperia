@@ -126,7 +126,6 @@ The AI considers multiple factors:
 - **Travel History**: Track and share past adventures
 - **Advanced AI**: More sophisticated personality matching
 - **Multi-language**: Support for global travelers
-- **Mobile App**: Native iOS and Android applications
 
 ---
 
