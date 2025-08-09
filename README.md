@@ -36,7 +36,7 @@ Xperia is an autonomous AI-powered travel companion matching app for solo travel
 
 - **Frontend**: React 19 + TypeScript + Tailwind CSS
 - **Backend**: Convex (real-time database and functions)
-- **AI**: Gemini 2.5 Flash for autonomous matching and suggestions
+- **AI**: Gemini api for autonomous matching and suggestions
 - **Authentication**: Convex Auth with email/password
 - **Real-time**: Convex real-time subscriptions
 - **Deployment**: Convex hosting
